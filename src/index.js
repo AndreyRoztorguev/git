@@ -2,4 +2,8 @@ function index() {
   return <div></div>;
 }
 
-export default index;
+function a() {
+  return null;
+}
+
+export { index };
