@@ -6,4 +6,8 @@ function a() {
   return null;
 }
 
-export { index };
+function b() {
+  return 'b';
+}
+
+export { index, b };
