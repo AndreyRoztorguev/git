@@ -1,5 +1,5 @@
 function index() {
-  return <div></div>;
+  return <div>Hello Master</div>;
 }
 
 function a() {
