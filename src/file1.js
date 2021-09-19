@@ -1,2 +1,2 @@
 'file1.js'
-"hello3"
+"hello4"
