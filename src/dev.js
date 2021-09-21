@@ -10,3 +10,4 @@ function fn() {
 export { fn };
 
 fn(); //?
+5:56
