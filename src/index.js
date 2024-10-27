@@ -4,4 +4,4 @@ const sum = require("./features/sub.js");
 console.log(sum(1, "10aasdasd"));
 console.log(sub(2, 1));
 
-console.log("fix main 1");
+console.log("fix master 1");
