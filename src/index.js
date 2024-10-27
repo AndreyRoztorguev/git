@@ -1,14 +1,3 @@
-function index() {
-  return <div>Hello Master</div>;
-}
-33;
+const sum = require("./features/sum.js");
 
-function a() {
-  return null;
-}
-
-function b() {
-  return 'b';
-}
-
-export { index, b };
+console.log(sum(1, "10aasdasd"));
